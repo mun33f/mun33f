@@ -1,48 +1,108 @@
-# 👋 Hi, I'm Dhanush S
+# 👋 Hi, I'm Hussane Muneef
 
-### 💼 Software Developer Intern @ Finytive Private Limited
+### 💻 Java Full Stack Developer
 
-* 🐍 Python Developer
-* 🌐 Django & React
-* 🗄️ SQL & PostgreSQL
-* 🤖 AI / ML & Data Science
-* 🚀 Building real-world applications
-* 📚 BCA Data Science
-
-### 🔗 Connect With Me
-
-* 💼 LinkedIn: **[Your LinkedIn Profile](YOUR_LINKEDIN_URL)**
-* 🐙 GitHub: **[Dhanush S](YOUR_GITHUB_URL)**
-* 📧 Email: **YOUR_EMAIL**
-
-### 🛠️ Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgresql,mysql,git,github" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+%26+Frontend+Developer;Building+Scalable+Web+Applications" />
 </p>
 
-### 📊 GitHub
+---
+
+## 🚀 About Me
+
+* 💻 Java Full Stack Developer
+* ☕ Passionate about Java & Backend Development
+* 🌱 Currently improving my Full Stack Development skills
+* 🔧 Building scalable and user-friendly web applications
+* 🧠 Interested in Software Development & Problem Solving
+* 🚀 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,spring,springboot" />
 </p>
 
-### 🚀 About Me
+### 🌐 Frontend
 
-> "Learning, building, and improving every day."
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
+### 🗄️ Database
 
-<!--
-**mun33f/mun33f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,docker,idea,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mun33f&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mun33f&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mun33f&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://github.com/mun33f">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Enterprise Web Application
+
+Java + Spring Boot + React + MySQL
+
+### 🔐 Authentication System
+
+Java + Spring Boot + JWT + MySQL
+
+### 📊 Management System
+
+Java + Spring Boot + React + PostgreSQL
+
+---
+
+## 💡 Quote
+
+> **"Code. Learn. Build. Repeat. 🚀"**
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
